@@ -1,0 +1,67 @@
+body {
+    background-image: url('elo.png');
+    filter: brightness(150%);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff00;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.menu {
+    background-color: rgb(255, 115, 0, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.menu a {
+    color: #ffffff;
+    margin: 10px;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    padding: 20px;
+}
+
+.contact {
+    text-align: center;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#gun1 {
+    align-self: auto;
+}
+
+#gun2 {
+    align-self: auto;
+}
+
+
