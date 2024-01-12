@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(5, 0, 50);
+  color: white;
+  font-family: "Trebuchet MS", sans-serif;
+  text-shadow: 2px 2px #030303;
+}
+
+#logowanie {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.naglowek {
+  width: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-weight: 900;
+  background-color: #003ada;
+  font-size: 26px;
+  text-align: center;
+  border-radius: 50px;
+}
+
+.log4_t {
+  width: 100px;
+  padding: 5px;
+  font-weight: 900;
+  background-color: #003ada;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 50px;
+}
+
+.tdid {
+  background-color: #0f23df;
+  border: 3px dotted black;
+}
+.tdnazwa {
+  background-color: #2d2e9e;
+  border: 3px dotted black;
+}
+.tdusun {
+  background-color: #0059ff;
+  border: 3px dotted black;
+}
+.tdedytuj {
+  background-color: #002fff;
+  border: 3px dotted black;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding: 20px;
+  text-align: center;
+}
